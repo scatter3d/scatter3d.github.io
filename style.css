@@ -15,6 +15,7 @@ td {
   background-color:#fafafa;
   font-weight: bold;
   color:navy;
+  size: 20px;
   border:2px solid navy; 
   padding:10px;
 }
