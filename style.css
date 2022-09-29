@@ -12,6 +12,7 @@ h1 {
 }
 
 td {
+  background-color:white;
   font-color:navy;
   border:2px solid navy; 
   padding:10px;
