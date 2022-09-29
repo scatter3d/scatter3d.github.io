@@ -5,6 +5,7 @@ body {
 }
 
 td {
+  background-color:grey;
   border:2px solid blue; 
   padding:10px;
 }
