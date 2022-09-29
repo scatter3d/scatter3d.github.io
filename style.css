@@ -1,9 +1,10 @@
 table {
   width:60%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 td {
   border:2px solid blue; 
-  padding:2px;
-  margins:2px;
+  padding:10px;
 }
