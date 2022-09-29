@@ -13,6 +13,7 @@ h1 {
 
 td {
   background-color:#FAFAFA;
+  font-weight: bold;
   color:navy;
   border:2px solid navy; 
   padding:10px;
